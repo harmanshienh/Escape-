@@ -1,0 +1,4 @@
+WIDTH, HEIGHT = (1280, 720)
+FPS = 60
+
+states = {"TITLE":1, "GAMEPLAY":2, "TRANSITION":3, "WIN":4, "LOSE":5}
